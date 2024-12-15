@@ -1,4 +1,3 @@
-
 # Repository Manager (Ash-Nazg)
 
 One interface to find all group contributors and in Intellectual Property Rights (IPR) bind them.
