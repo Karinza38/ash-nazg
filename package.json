@@ -55,7 +55,7 @@
     "es6-promise": "4.1.1",
     "expect.js": "0.3.1",
     "express": "4.15.3",
-    "express-session": "1.15.3",
+    "express-session": "1.18.1",
     "express-winston": "2.4.0",
     "node-w3capi": "^2.1.0",
     "nodemailer": "6.4.16",
