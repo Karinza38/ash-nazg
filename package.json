@@ -47,7 +47,7 @@
     "@octokit/plugin-paginate-rest": "^2.2.3",
     "async": "2.5.0",
     "bl": "4.0.3",
-    "body-parser": "1.17.2",
+    "body-parser": "1.20.3",
     "cradle": "0.7.1",
     "curry": "1.2.0",
     "doasync": "^2.0.1",
