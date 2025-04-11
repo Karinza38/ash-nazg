@@ -43,7 +43,7 @@
     "watchify": "3.9.0"
   },
   "dependencies": {
-    "@octokit/core": "^3.1.0",
+    "@octokit/core": "^6.1.5",
     "@octokit/plugin-paginate-rest": "^2.2.3",
     "async": "2.5.0",
     "bl": "4.0.3",
